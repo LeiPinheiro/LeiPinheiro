@@ -4,7 +4,7 @@
 <table align=center>
     <tr>
         <td style="width: 30%; vertical-align: middle;">
-            <img src="https://i.imgur.com/1VHbEy2.jpeg" style="width:250px; height:auto;">
+            <img src="https://media3.giphy.com/media/Y8bAdBxtKREVcuDNyH/200w.gif?cid=6c09b952cx35sf69d2hyvwxq6ucyz96sm1t6l8o69s1l7jvx&ep=v1_stickers_search&rid=200w.gif&ct=s" style="width:250px; height:auto;">
         </td>
         <td style="width: 90%; align: center;">
       
