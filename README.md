@@ -4,7 +4,7 @@
 <table align=center>
     <tr>
         <td style="width: 30%; vertical-align: middle;">
-            <img src="https://i.imgur.com/1VHbEy2.jpeg" style="width:350px; height:auto;">
+            <img src="https://i.imgur.com/1VHbEy2.jpeg" style="width:250px; height:auto;">
         </td>
         <td style="width: 90%; align: center;">
       
