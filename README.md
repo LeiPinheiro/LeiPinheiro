@@ -34,9 +34,6 @@ const mySkills = {
 </p>
  <div align = center style>  
  <a href="#" style="text-decoration: none"> Portifolio </a>
-   
-   <br/>
-   <br/>
  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiPinheiro&layout=compact&langs_count=16&theme=midnight-purple"/>
  </div>
   </td>
