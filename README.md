@@ -17,13 +17,13 @@
 
  ```js
 const mySkills = {
-  languages: [ "Typescript","Java","Node.JS", "Javascript" ],
+  languages: ["Typescript","Java","Javascript", "Node.js"],
 
-  databases: [ "MySQL", "Postgres", "MongoDB" ],
+  databases: ["MySQL", "Postgres", "MongoDB"],
 
-  libraries: [ "React", "Express", "Tailwind" ],
+  libraries: ["React", "Express", "Tailwind"],
 
-  frameworks: [ "Next.JS", "Springboot", "Vite" ],
+  frameworks: ["Next.JS", "Springboot", "Vite"],
 }
 ```
 
