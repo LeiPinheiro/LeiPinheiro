@@ -33,7 +33,9 @@ const mySkills = {
 
 </p>
  <div align = center style>  
- <a href="#" style="text-decoration: none"> Portifolio </a>
+ <a href="https://leipinheiro.github.io/Meu-portfolio/" style="text-decoration: none"> Portifolio </a>
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeiPinheiro&layout=compact&bg_color=000000&title_color=FFFFFF)
  </div>
   </td>
   </tr>
